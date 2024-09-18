@@ -8,10 +8,10 @@
 # Materiais
 -
 Arduino Uno
-3 LEDs
-3 resistores de 220Ω
-Fios de conexão
-Protoboard
+3 LEDs;
+3 resistores de 220Ω;
+Fios de conexão;
+Protoboard;
 -
 # Código
 
